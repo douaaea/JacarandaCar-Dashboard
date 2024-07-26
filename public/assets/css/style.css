@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff; /* White background */
+  color: #000; /* Black text */
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+table th, table td {
+  border: 1px solid #000; /* Black borders */
+  padding: 8px;
+  text-align: center;
+}
+table th {
+  background-color: #000; /* Black header background */
+  color: #fff; /* White header text */
+  font-size: 14px;
+}
+table td {
+  font-size: 14px;
+}
+.total {
+  font-weight: bold;
+}
+.grand {
+  font-size: 18px;
+  font-weight: bold;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.header-table {
+  width: 100%;
+  border: none;
+}
+.header-table td {
+  border: none;
+  vertical-align: top;
+}
