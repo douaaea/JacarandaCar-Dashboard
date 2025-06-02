@@ -1,5 +1,6 @@
 # 🚗 JacarandaCar – Tableau de Bord Web pour la Gestion d'une Agence de Location de Voitures
-rapport: [Uploading RAPPORT FINAL  PFA AMEZIANE DOUAA.pdf…]()
+rapport: [RAPPORT FINAL  PFA AMEZIANE DOUAA.pdf](https://github.com/user-attachments/files/20553571/RAPPORT.FINAL.PFA.AMEZIANE.DOUAA.pdf)
+
 
 Ce projet est une application web de gestion complète développée dans le cadre d’un stage pratique chez **SEOCOM Marrakech** en juillet 2024. Elle permet à une entreprise de location de voitures (JacarandaCar) de gérer efficacement son activité via un tableau de bord intuitif et sécurisé.
 
@@ -59,6 +60,7 @@ Ce projet est une application web de gestion complète développée dans le cadr
   ![image](https://github.com/user-attachments/assets/ac457f5f-c2ff-4f2a-a33c-ee7fd693f078)
 
 - **Historique des activités** pour le suivi des actions admin
+  
   ![image](https://github.com/user-attachments/assets/96709caf-a4c1-4f55-86ea-ff121089b8f8)
 
 
